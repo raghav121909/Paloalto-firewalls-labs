@@ -1,4 +1,4 @@
-# Lesson 01 – Palo Alto Architecture & Basics
+# Lab 01 – Palo Alto Architecture & Basics
 
 ## Objective
 Understand firewall internals before configuration.
