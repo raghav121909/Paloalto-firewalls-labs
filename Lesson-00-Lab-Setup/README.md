@@ -1,4 +1,4 @@
-# Lesson 00 – Lab Setup & Learning Mindset
+# Lab 00 Setup & Learning Mindset
 
 ## Objective
 Build a real-world lab environment for Palo Alto Firewall learning.
