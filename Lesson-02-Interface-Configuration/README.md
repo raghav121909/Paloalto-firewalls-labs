@@ -1,4 +1,6 @@
-# Lab 02 Interface Configuration – ethernet1/1
+# Lab 02 - Interface Configuration 
+
+## ethernet1/1
 
 ## Objective
 Configure the ISP-facing (Untrust) interface on a Palo Alto firewall to establish outbound internet connectivity. This is the first and most critical configuration step before setting up internal networks.
