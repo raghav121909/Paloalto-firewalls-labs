@@ -1,4 +1,4 @@
-## Implementing and Testing App-ID Application Filtering on Palo Alto Firewall
+# Implementing and Testing App-ID Application Filtering on Palo Alto Firewall
 
 
 ### STEP 1: Modify Security Rule
