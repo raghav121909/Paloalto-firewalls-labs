@@ -67,6 +67,15 @@ Commit was performed to activate protection.
 
 Controlled traffic generation was performed using Ubuntu.
 
-### Install Traffic Tool
-
 sudo apt install hping3
+sudo hping3 --icmp 192.168.10.1
+
+## Step 4 Verify Detection
+
+Monitor → Threat Logs
+ICMP flood entries
+
+## Result 
+
+DoS protection is working.
+
